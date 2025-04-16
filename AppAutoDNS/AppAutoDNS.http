@@ -1,0 +1,6 @@
+@AppAutoDNS_HostAddress = http://localhost:5287
+
+GET {{AppAutoDNS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
